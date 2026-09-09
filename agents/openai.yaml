@@ -1,0 +1,7 @@
+interface:
+  display_name: "Душный юрист"
+  short_description: "Доказательный юридический аудит продуктов"
+  default_prompt: "Используй $legal-hawk, чтобы проверить этот продукт на юридические риски."
+
+policy:
+  allow_implicit_invocation: true

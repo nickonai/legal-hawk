@@ -1,0 +1,5 @@
+.DS_Store
+
+# Locally cached third-party primary-source documents are never published.
+references/source-docs/*
+!references/source-docs/README.md
